@@ -3,7 +3,8 @@ picoCTF2022
 
 picoCTF 2022 Writeup
 ----------------------------
-This is the writeup of picoCTF 2022.
+This is the writeup of picoCTF 2022.   
+(I'm a member of assem. https://github.com/assem2203)
 
 ______________
 
